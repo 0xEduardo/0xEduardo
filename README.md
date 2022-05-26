@@ -31,7 +31,7 @@ Currently focusing more on the backend. 🔭
 ```javascript
     const moreOf = {
       pronouns: 'he' || 'him',
-      architecture: ['clean-archtecture', 'factory', 'mvc'],
+      architecture: ['clean-archtecture', 'mvc'],
       askMeAbout: ['SOLID', 'Type-safety', 'Factories', 'Separation of Concern'],
       hobbies: ['bug-bounty', 'codewars'],
       currentSideProject: 'Working on my own Bug Bounty recon tool',
