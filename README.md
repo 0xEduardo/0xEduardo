@@ -8,7 +8,7 @@
 <br/><br/>
 Nearly 5 years of experience as a Software Engineer specializing in Full-Stack development. Proficient in working with JavaScript frameworks, successfully delivering efficient software solutions based on these technologies. 
 <br/><br/>
-Currently focusing more on backend. 🔭
+Currently focusing more on the backend. 🔭
 <br/><br/>
 <a href="https://www.linkedin.com/in/eduardo-fariasilva/" target="blank">
   <img align="center" alt="Linkedin" width="100px" src="https://img.shields.io/badge/-Linkedin-2361B8?style=for-the-badge&logo=linkedin" />
@@ -26,6 +26,18 @@ Currently focusing more on backend. 🔭
  ![Mocha.js](https://img.shields.io/badge/Mocha-37014B?style=for-the-badge&logo=mocha) ![Chai.js](https://img.shields.io/badge/Chai-37014B?style=for-the-badge&logo=chai&logoColor=970000) ![Postgres](https://img.shields.io/badge/Postgres-37014B?style=for-the-badge&logo=postgresql) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-37014B?style=for-the-badge&logo=microsoftsqlserver) ![Firebase](https://img.shields.io/badge/Firebase-37014B?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-37014B?style=for-the-badge&logo=mongodb) ![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-37014B?style=for-the-badge&logo=amazondynamodb) ![Amazon Lambda](https://img.shields.io/badge/Lambda-37014B?style=for-the-badge&logo=awslambda) ![Amazon API Gateway](https://img.shields.io/badge/API_GATEWAY-37014B?style=for-the-badge&logo=amazonaws) ![Amazon AppSync](https://img.shields.io/badge/APPSYNC-37014B?style=for-the-badge&logo=amazonaws)
  
 ![Amazon Amplify](https://img.shields.io/badge/Amplify-37014B?style=for-the-badge&logo=awsamplify) ![Heroku](https://img.shields.io/badge/Heroku-37014B?style=for-the-badge&logo=heroku) ![Github Actions](https://img.shields.io/badge/Github_Actions-37014B?style=for-the-badge&logo=githubactions) ![Docker](https://img.shields.io/badge/Docker-37014B?style=for-the-badge&logo=docker) 
+
+
+```javascript
+    const moreOf = {
+      pronouns: 'he' || 'him',
+      architecture: ['clean-archtecture', 'factory', 'mvc'],
+      askMeAbout: ['SOLID', 'Type-safety', 'Factories', 'Separation of Concern'],
+      hobbies: ['bug-bounty', 'codewars'],
+      currentSideProject: 'Working on my own Bug Bounty recon tool',
+    }
+```
+
 
 <br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeduardofaria&count_private=true&theme=tokyonight)
