@@ -32,7 +32,7 @@ Currently focusing more on the backend. 🔭
 
 
 ```javascript
-    const moreOf = {
+    const moreAbout = {
       pronouns: 'he' || 'him',
       architecture: ['clean-archtecture', 'mvc'],
       askMeAbout: ['SOLID', 'Type-safety', 'Factories', 'Separation of Concern'],
