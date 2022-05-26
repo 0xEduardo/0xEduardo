@@ -35,7 +35,8 @@ Currently focusing more on the backend. 🔭
     const moreAbout = {
       pronouns: 'he' || 'him',
       architecture: ['clean-archtecture', 'mvc'],
-      askMeAbout: ['SOLID', 'Type-safety', 'Factories', 'Separation of Concern', 'Dependency Injection'],
+      askMeAbout: ['SOLID', 'Type-safety', 'Factories', 'Separation of Concern', 
+        'Dependency Injection'],
       studies: ['NestJS', 'Auth0 to implement a SSO auth flow'],
       hobbies: ['bug-bounty', 'codewars'],
       currentSideProject: 'Working on my own Bug Bounty recon tool',
