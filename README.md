@@ -43,7 +43,7 @@ Currently focusing more on the backend. 🔭
 ```
 
 <div align="center">
-  <div><a href="https://www.codewars.com/users/zEduardofaria">CodeWars</a></div>
+  <div><a href="https://www.codewars.com/users/zEduardofaria">Codewars</a></div>
   <img src="https://www.codewars.com/users/zEduardofaria/badges/large" />
 </div>
 
