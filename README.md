@@ -1,6 +1,8 @@
-<div align="center"><img alt="mrrobot" width="100px" src="https://media.giphy.com/media/IhCwdJH07SMCoVd8nE/giphy.gif" /> <br><br> 
+<div align="center">
+  <img alt="mrrobot" width="100px" src="https://media.giphy.com/media/IhCwdJH07SMCoVd8nE/giphy.gif" /> 
 </div>
-
+<br>
+<br> 
 ```python
   print("Hello_Friend")
 ```
@@ -40,5 +42,12 @@ Currently focusing more on the backend. 🔭
 
 
 <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeduardofaria&count_private=true&theme=tokyonight)
-
+<details>
+  <summary>Stats for nerds</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zeduardofaria&count_private=true&theme=tokyonight" />
+  </p>
+  <p align="center">
+    <img src="https://wakatime.com/share/@zEduardofaria/a3fe0c1b-78c4-4cfb-b1bf-27a126c2d04d.svg" />
+  </p>
+</details>
