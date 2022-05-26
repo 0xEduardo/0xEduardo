@@ -46,7 +46,10 @@ Currently focusing more on the backend. 🔭
   <div><a href="https://www.codewars.com/users/zEduardofaria">Codewars</a></div>
   <img src="https://www.codewars.com/users/zEduardofaria/badges/large" />
 </div>
-
+<br/><br/>
+<p align="center">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=zEduardofaria&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" />
+</p>
 
 <br/><br/>
 <details>
