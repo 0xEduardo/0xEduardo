@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="mrrobot" width="80px" src="https://media.giphy.com/media/IhCwdJH07SMCoVd8nE/giphy.gif" /> 
+  <img alt="mrrobot" width="100" src="https://media.giphy.com/media/IhCwdJH07SMCoVd8nE/giphy.gif" /> 
 </div>
 <br>
 <br>
