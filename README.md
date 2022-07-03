@@ -36,7 +36,7 @@ Currently focusing more on the backend. 🔭
       architecture: ['clean-archtecture', 'mvc'],
       askMeAbout: ['SOLID', 'Type-safety', 'Factories', 'Separation of Concern', 
         'Dependency Injection'],
-      studies: ['NestJS', 'Serverless', 'Auth0 to implement a SSO auth flow'],
+      studies: ['Jest', 'Serverless'],
       hobbies: ['bug-bounty', 'codewars'],
       currentSideProject: 'Working on my own Bug Bounty recon tool',
     }
