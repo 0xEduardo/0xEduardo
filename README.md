@@ -35,8 +35,8 @@ Currently focusing more on the backend. 🔭
       pronouns: 'he' || 'him',
       architecture: ['clean-archtecture', 'mvc'],
       askMeAbout: ['SOLID', 'Type-safety', 'Separation of Concern'],
-      studies: ['Jest', 'Serverless'],
-      hobbies: ['bug-bounty', 'codewars'],
+      studies: ['Python', 'Docker'],
+      hobbies: ['bug-bounty', 'Hack the Box'],
       currentSideProject: 'Working on my own Bug Bounty recon tool',
     }
 ```
