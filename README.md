@@ -37,7 +37,7 @@ Currently focusing more on the backend. 🔭
       askMeAbout: ['SOLID', 'Type-safety', 'Separation of Concern'],
       studies: ['Python', 'Docker'],
       hobbies: ['bug-bounty', 'Hack the Box'],
-      currentSideProject: 'Working on my own Bug Bounty recon tool',
+      currentSideProject: 'DCPT',
     }
 ```
 
