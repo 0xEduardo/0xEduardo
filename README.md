@@ -43,8 +43,7 @@ Currently focusing more on the backend. 🔭
 
 <div align="center">
   <div><a href="https://app.hackthebox.com/profile/31396">Hack the Box</a></div>
-  <img src="https://www.codewars.com/users/z![htb](https://github.com/zEduardofaria/zEduardofaria/assets/23220615/8f284d7d-626c-48df-af15-035630fb2200)
-Eduardofaria/badges/large" />
+  <img src="https://github.com/zEduardofaria/zEduardofaria/blob/Image-testing/htb.jpg?raw=true" />
 </div>
 <br/><br/>
 <p align="center">
