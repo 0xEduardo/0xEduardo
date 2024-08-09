@@ -50,12 +50,3 @@ Currently focusing more on the backend and web hacking. 🔭
 </p>
 
 <br/><br/>
-<details>
-  <summary>Stats for nerds</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zeduardofaria&count_private=true&theme=tokyonight" />
-  </p>
-  <p align="center">
-    <img src="https://wakatime.com/share/@zEduardofaria/a3fe0c1b-78c4-4cfb-b1bf-27a126c2d04d.svg" />
-  </p>
-</details>
