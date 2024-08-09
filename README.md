@@ -35,9 +35,9 @@ Currently focusing more on the backend and web hacking. 🔭
       pronouns: 'he' || 'him',
       architecture: ['clean-archtecture', 'mvc'],
       askMeAbout: ['SOLID', 'Type-safety', 'Separation of Concern'],
-      studies: ['Python', 'Docker'],
+      studies: ['NestJs', 'AWS Cloud'],
       hobbies: ['bug-bounty', 'Hack the Box'],
-      currentSideProject: 'DCPT',
+      currentSideProject: 'Portfolio',
     }
 ```
 
