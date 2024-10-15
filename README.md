@@ -9,7 +9,7 @@
 ```
 
 <br/><br/>
-Nearly 5 years of experience as a Software Engineer specializing in Full-Stack development. Proficient in working with JavaScript frameworks, successfully delivering efficient software solutions based on these technologies. 
+Software engineer with nearly 7 years of experience, specializing in backend development, and complemented by a background in full-stack engineering. Proficient in working with JavaScript frameworks, successfully delivering efficient software solutions built on these technologies.
 <br/><br/>
 Currently focusing more on the backend and web hacking. 🔭
 <br/><br/>
