@@ -32,7 +32,7 @@ Currently focusing more on the backend and web hacking. 🔭
 
 ```javascript
     const moreAbout = {
-      architecture: ['clean-architecture, 'mvc'],
+      architecture: ['clean-architecture', 'mvc'],
       askMeAbout: ['Web Security'],
       studies: ['NestJs'],
       hobbies: ['bug-bounty', 'Hack the Box', 'leetcode'],
