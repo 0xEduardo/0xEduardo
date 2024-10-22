@@ -32,12 +32,11 @@ Currently focusing more on the backend and web hacking. 🔭
 
 ```javascript
     const moreAbout = {
-      pronouns: 'he' || 'him',
-      architecture: ['clean-archtecture', 'mvc'],
-      askMeAbout: ['SOLID', 'Type-safety', 'Separation of Concern'],
-      studies: ['NestJs', 'AWS Cloud'],
-      hobbies: ['bug-bounty', 'Hack the Box'],
-      currentSideProject: 'Portfolio',
+      architecture: ['clean-architecture, 'mvc'],
+      askMeAbout: ['Web Security'],
+      studies: ['NestJs'],
+      hobbies: ['bug-bounty', 'Hack the Box', 'leetcode'],
+      currentSideProject: 'Blog',
     }
 ```
 
