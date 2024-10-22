@@ -42,11 +42,11 @@ Currently focusing more on the backend and web hacking. 🔭
 ```
 
 <div align="center">
-  <a href="https://app.hackthebox.com/profile/31396"><img src="https://github.com/zEduardofaria/zEduardofaria/blob/Image-testing/htb.jpg?raw=true" /></a>
+  <a href="https://app.hackthebox.com/profile/31396"><img src="https://github.com/0xEduardo/blob/Image-testing/htb.jpg?raw=true" /></a>
 </div>
 <br/><br/>
 <p align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=zEduardofaria&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" />
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=0xEduardo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" />
 </p>
 
 <br/><br/>
