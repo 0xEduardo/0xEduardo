@@ -42,7 +42,7 @@ Currently focusing more on the backend and web hacking. 🔭
 ```
 
 <div align="center">
-  <a href="https://app.hackthebox.com/profile/31396"><img src="https://github.com/0xEduardo/blob/Image-testing/htb.jpg?raw=true" /></a>
+  <a href="https://app.hackthebox.com/profile/31396"><img src="https://github.com/0xEduardo/0xEduardo/blob/Image-testing/htb.jpg?raw=true" /></a>
 </div>
 <br/><br/>
 <p align="center">
