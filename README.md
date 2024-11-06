@@ -34,9 +34,9 @@ Currently focusing more on the backend and web hacking. 🔭
     const moreAbout = {
       architecture: ['clean-architecture', 'mvc'],
       askMeAbout: ['Web Security'],
-      studies: ['NestJs'],
-      hobbies: ['bug-bounty', 'Hack the Box', 'leetcode'],
-      currentSideProject: 'Blog',
+      studies: ['Web Architecture'],
+      hobbies: ['bug-bounty', 'HackingClub'],
+      currentSideProject: '[Blog](https://app.hackingclub.com/profile/user/298)',
     }
 ```
 
