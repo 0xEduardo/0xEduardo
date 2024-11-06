@@ -36,7 +36,7 @@ Currently focusing more on the backend and web hacking. 🔭
       askMeAbout: ['Web Security'],
       studies: ['Web Architecture'],
       hobbies: ['bug-bounty', 'HackingClub'],
-      currentSideProject: '[Blog](https://app.hackingclub.com/profile/user/298)',
+      currentSideProject: '[HackingClub](https://app.hackingclub.com/profile/user/298)',
     }
 ```
 
