@@ -32,11 +32,10 @@ Currently focusing more on web3 security researching. 🔭
 
 ```javascript
     const moreAbout = {
-      architecture: ['clean-architecture', 'mvc'],
-      askMeAbout: ['Web Security'],
-      studies: ['Web Architecture'],
-      hobbies: ['bug-bounty', 'HackingClub'],
-      currentSideProject: '[HackingClub](https://app.hackingclub.com/profile/user/298)',
+      askMeAbout: ['Web3 Security'],
+      studies: ['Solidity'],
+      hobbies: ['bug-bounty', 'contests'],
+      currentSideProject: '[Web3 Security Researching](https://profiles.cyfrin.io/u/0xdwrd)',
     }
 ```
 
