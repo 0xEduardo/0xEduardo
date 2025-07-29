@@ -11,7 +11,7 @@
 <br/><br/>
 Software engineer with nearly 7 years of experience, specializing in backend development, and complemented by a background in full-stack engineering. Proficient in working with JavaScript frameworks, successfully delivering efficient software solutions built on these technologies.
 <br/><br/>
-Currently focusing more on the backend and web3 security researching. 🔭
+Currently focusing more on web3 security researching. 🔭
 <br/><br/>
 <a href="https://www.linkedin.com/in/eduardo-fariasilva/" target="blank">
   <img align="center" alt="Linkedin" width="100px" src="https://img.shields.io/badge/-Linkedin-2361B8?style=for-the-badge&logo=linkedin" />
