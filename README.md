@@ -9,7 +9,7 @@
 ```
 
 <br/><br/>
-Software engineer with nearly 7 years of experience, specializing in backend development, and complemented by a background in full-stack engineering. Proficient in working with JavaScript frameworks, successfully delivering efficient software solutions built on these technologies.
+Software engineer with nearly 8 years of experience, specializing in backend development, and complemented by a background in full-stack engineering. Proficient in working with JavaScript frameworks, successfully delivering efficient software solutions built on these technologies.
 <br/><br/>
 Currently focusing more on web3 security researching. 🔭
 <br/><br/>
@@ -34,7 +34,7 @@ Currently focusing more on web3 security researching. 🔭
     const moreAbout = {
       askMeAbout: ['Web3 Security'],
       studies: ['Solidity'],
-      hobbies: ['bug-bounty', 'contests'],
+      hobbies: ['bug-bounty', 'contests', 'hack-the-box'],
       currentSideProject: '[Web3 Security Researching](https://profiles.cyfrin.io/u/0xdwrd)',
     }
 ```
