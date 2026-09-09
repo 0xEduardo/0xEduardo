@@ -32,10 +32,10 @@ Currently focusing more on web3 security research. 🔭
 
 ```javascript
     const moreAbout = {
-      askMeAbout: ['Web3 Security'],
-      studies: ['Solidity'],
-      hobbies: ['bug-bounty', 'contests', 'hack-the-box'],
-      currentSideProject: '[Web3 Security Researching](https://profiles.cyfrin.io/u/0xdwrd)',
+      askMeAbout: ['Offensive Security', 'Web3 Security'],
+      studies: ['Blockchain', 'IA Harnesses', 'Loop Engineering'],
+      hobbies: ['bug-bounty', 'web3-contests', 'hack-the-box'],
+      currentSideProject: 'Web3 Security Researching',
     }
 ```
 
